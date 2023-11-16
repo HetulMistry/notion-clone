@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# customizations and extensions
+Notion.ico
+desktop.ini
+.trunk
+video.link
