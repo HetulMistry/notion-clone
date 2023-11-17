@@ -36,7 +36,7 @@ yarn-error.log*
 next-env.d.ts
 
 # customizations and extensions
-Notion.ico
+icon.ico
 desktop.ini
 .trunk
 video.link
