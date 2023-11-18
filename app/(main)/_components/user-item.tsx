@@ -1,10 +1,9 @@
 "use client";
 
 import { ChevronsLeftRight } from "lucide-react";
+
 import { SignOutButton, useUser } from "@clerk/clerk-react";
-
 import { Avatar, AvatarImage } from "@/components/ui/avatar";
-
 import {
   DropdownMenu,
   DropdownMenuContent,
